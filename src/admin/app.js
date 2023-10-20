@@ -1,13 +1,13 @@
-import Logo from "./extensions/logo-cra-lowres.png";
+// import Logo from "./extensions/logo-cra-lowres.png";
 
 export default {
   config: {
     locales: ["es"],
     auth: {
-      logo: Logo,
+      logo: "/src/extensions/logo-cra-lowres.png",
     },
     menu: {
-      logo: Logo,
+      logo: "/src/extensions/logo-cra-lowres.png",
     },
   },
   bootstrap(app) {
