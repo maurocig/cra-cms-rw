@@ -3,12 +3,12 @@
 export default {
   config: {
     locales: ["es"],
-    auth: {
-      logo: "/src/extensions/logo-cra-lowres.png",
-    },
-    menu: {
-      logo: "/src/extensions/logo-cra-lowres.png",
-    },
+    // auth: {
+    //   logo: "/src/extensions/logo-cra-lowres.png",
+    // },
+    // menu: {
+    //   logo: "/src/extensions/logo-cra-lowres.png",
+    // },
   },
   bootstrap(app) {
     console.log(app);
