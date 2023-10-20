@@ -1,4 +1,4 @@
-import Logo from "../extensions/logo-cra-lowres.png";
+import Logo from "./extensions/logo-cra-lowres.png";
 
 export default {
   config: {
